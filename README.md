@@ -1,116 +1,199 @@
-# Hey there! I'm Synt4x404 👨‍💻
+# ░██████╗██╗░░░██╗███╗░░██╗████████╗░██╗██╗██╗░░██╗░░██╗░█████╗░░██╗██╗
+# ██╔════╝╚██╗░██╔╝████╗░██║╚══██╔══╝░██║██║██║░░██║░░██║██╔══██╗░██║██║
+# ╚█████╗░░╚████╔╝░██╔██╗██║░░░██║░░░░██║██║███████║░░██║██║░░██║░██║██║
+# ░╚═══██╗░░╚██╔╝░░██║╚████║░░░██║░░░░╚═╝╚═╝╚══════╝░░╚═╝╚██████╔╝░╚═╝╚═╝
+# ██████╔╝░░░██║░░░██║░╚███║░░░██║░░░░██╗██╗██╗░░██╗░░██╗░╚═════╝░░██╗██╗
+# ╚═════╝░░░░╚═╝░░░╚═╝░░╚══╝░░░╚═╝░░░░╚═╝╚═╝╚═╝░░╚═╝░░╚═╝░░░░░░░░░╚═╝╚═╝
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right" alt="Coding and Data Visualization">
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="400" align="right" alt="Hacker Matrix Code">
 
-## 🗺️ Mapping the Digital World Through Data
+```ascii
+┌─[ Synt4x404@GeoHacker ]─[ ~/profile ]
+└─$ whoami
+```
 
-**GIS Specialist | Data Engineer | Geospatial Solutions Architect**
+## 🔴 CLASSIFIED: Geospatial Intelligence Operative
 
-I transform complex spatial data into actionable insights and beautiful visualizations. From satellite imagery analysis to real-time mapping applications, I bridge the gap between raw geospatial data and meaningful solutions that drive decision-making.
+**[ STATUS: ACTIVE ]** | **[ CLEARANCE: ROOT ]** | **[ LOCATION: COORDINATES ENCRYPTED ]**
 
-> *"Every pixel tells a story, every coordinate holds potential."*
+```bash
+./synt4x404 --mode="infiltrate" --target="spatial_data" --objective="world_domination_through_maps"
+```
+
+> *"I don't just read maps... I hack reality itself, one coordinate at a time."*
 
 ---
 
-## 🎯 What I Do
+## 🎯 [ MISSION BRIEFING ]
 
-🌍 **Geospatial Analysis**: Turning Earth's data into intelligence  
-📊 **Data Engineering**: Building robust pipelines for spatial data processing  
-🗺️ **Cartographic Design**: Creating maps that communicate and inspire  
-🔧 **Infrastructure**: Deploying scalable GIS solutions in the cloud  
-🤖 **Automation**: Streamlining workflows with Python and shell scripting  
+```terminal
+┌─[ CURRENT OPERATIONS ]
+├── 🗺️  [ GEOINT ] ─────── Extracting secrets from satellite feeds
+├── 💾 [ DATA MINING ] ─── Tunneling through spatial databases  
+├── 🌐 [ NET INTRUSION ] ─ Penetrating GIS infrastructures
+├── 🛰️ [ SIGINT ] ──────── Intercepting Earth observation data
+└── ⚡ [ EXPLOIT DEV ] ──── Crafting spatial data weaponry
+```
+
+**THREAT LEVEL: MAXIMUM** ⚠️  
+*Authorized to deploy geospatial solutions with extreme prejudice*
 
 ---
 
-## 🛠️ My Arsenal
+## 🛡️ [ ARSENAL & EXPLOITS ]
 
-### 📍 **GIS & Remote Sensing**
-```
-🗺️ Desktop GIS        → QGIS 3.x | ArcGIS Pro | ArcMap
-🛰️ Remote Sensing     → ERDAS Imagine | Google Earth Engine
-🗄️ Spatial Databases  → PostGIS | SpatiaLite
-🌐 Web Mapping        → Leaflet | OpenLayers | Mapbox
-📦 Data Processing    → GDAL/OGR | FME
+### 🔓 **INFILTRATION TOOLS**
+```bash
+# Desktop Penetration Suite
+[✓] QGIS-3.x.exe           # The Swiss Army knife
+[✓] ArcGIS-Pro.dll          # Corporate backdoor  
+[✓] ERDAS-Imagine.bin       # Satellite decoder ring
+[✓] PostGIS-Shell.sql       # Database lockpick
+[✓] GDAL-Toolkit.tar.gz     # Universal data translator
 ```
 
-### 💻 **Development Stack**
+### 💉 **PAYLOAD INJECTORS** 
 ```python
-# Core Languages
-languages = {
-    "Python": "Geospatial data science & automation",
-    "R": "Statistical analysis & visualization", 
-    "SQL": "Spatial queries & database management",
-    "Shell": "System automation & deployment"
+# Primary attack vectors
+exploit_kit = {
+    "Python": "🐍 Silent execution & automation",
+    "R": "📊 Statistical warfare & viz bombs", 
+    "SQL": "💉 Database injection specialist",
+    "Shell": "⚡ System-level privilege escalation"
 }
 ```
 
-### 🌐 **Infrastructure & DevOps**
+### 🌐 **NETWORK INFILTRATION**
 ```yaml
-Infrastructure:
-  - Containers: Docker, Kubernetes
-  - Web Servers: NGINX, Apache
-  - Networking: Tailscale, VPN solutions
-  - Cloud: AWS, GCP (Earth Engine, BigQuery)
-  - OS: Linux (Ubuntu, CentOS), Windows Server
+Infrastructure_Access:
+  containers: 
+    - Docker: "Isolated payload deployment"
+    - Kubernetes: "Distributed attack coordination"
+  proxy_chains:
+    - NGINX: "Traffic masking & load balancing" 
+    - Apache: "Legacy system backdoors"
+  secure_tunnels:
+    - Tailscale: "Encrypted mesh networking"
+    - VPN: "Identity obfuscation layer"
+  cloud_platforms:
+    - AWS: "Scalable infrastructure hijacking"
+    - GCP: "Earth Engine direct access"
 ```
 
 ---
 
-## 📈 GitHub Analytics
+## 📡 [ INTELLIGENCE DASHBOARD ]
+
+```terminal
+┌─[ SYNT4X404 COMMAND CENTER ]─────────────────────────────────────┐
+│                                                                   │
+│  ╔═══════════════════════════════════════════════════════════╗   │
+│  ║                    LIVE STATS FEED                       ║   │
+│  ╚═══════════════════════════════════════════════════════════╝   │
+```
 
 <div align="center">
 
-![Synt4x404's GitHub Stats](https://github-readme-stats.vercel.app/api?username=js-surya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+![Synt4x404's Hacking Stats](https://github-readme-stats.vercel.app/api?username=js-surya&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00&icon_color=ff0040)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js-surya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+![Code Frequency Analysis](https://github-readme-stats.vercel.app/api/top-langs/?username=js-surya&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff00&text_color=00ff00)
 
 </div>
+
+```terminal
+├─[ CONTINUOUS DEPLOYMENT STREAK ]─────────────────────────────────┤
+```
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=js-surya&theme=radical&hide_border=true&background=0D1117)
+![Hack Streak](https://streak-stats.demolab.com?user=js-surya&theme=dark&hide_border=true&background=000000&stroke=00ff00&ring=ff0040&fire=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=ffffff)
 
 </div>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=js-surya&theme=github-compact&bg_color=0D1117&color=ffffff&line=00d8ff&point=ffffff)
+![Network Activity Monitor](https://github-readme-activity-graph.vercel.app/graph?username=js-surya&theme=terminal&bg_color=000000&color=00ff00&line=ff0040&point=ffffff)
 
 ---
 
-## 🎯 Current Focus
+## 🔥 [ ACTIVE EXPLOITS ]
 
-- 🔥 **Real-time Spatial Analytics**: Building streaming data pipelines for IoT sensors
-- 🚀 **Cloud-Native GIS**: Containerized geospatial services on Kubernetes  
-- 🤖 **ML + GIS**: Integrating machine learning with spatial analysis
-- 📱 **Mobile GIS**: Cross-platform mapping applications
-
----
-
-## 💡 Daily Inspiration
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```bash
+┌─[ CURRENT_MISSIONS.log ]
+├── 🌊 Real-time_IoT_Infiltration.......... [ IN PROGRESS ]
+├── ☁️  Cloud-Native_GIS_Compromise........ [ DEPLOYING  ]  
+├── 🤖 ML-Enhanced_Spatial_Attacks......... [ DEVELOPING ]
+├── 📱 Mobile_GIS_Penetration_Testing...... [ RECON_PHASE ]
+└── 🛰️ Satellite_Feed_Interception........ [ CLASSIFIED ]
+```
 
 ---
 
-## 🤝 Let's Connect!
+## ⚠️ [ SECURITY ALERT ]
 
-💬 **Open to collaborate on:**
-- 🗺️ Geospatial data projects
-- 🔧 Infrastructure automation  
-- 📊 Data visualization challenges
-- 🌍 Environmental monitoring solutions
+```terminal
+┌─[ DAILY_BREACH_REPORT ]──────────────────────────────────────────┐
+│  UNAUTHORIZED ACCESS DETECTED: MOTIVATIONAL DATABASES COMPROMISED │
+└───────────────────────────────────────────────────────────────────┘
+```
 
-📫 **Reach out if you're working on:**
-- Spatial data problems that need solving
-- GIS infrastructure that needs scaling  
-- Maps that need to tell better stories
-- Data that needs to find its place in the world
+![Daily Exploit](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
+
+## 🎭 [ RECRUITMENT & COLLABORATION ]
+
+```bash
+$ cat recruitment_notice.txt
+```
+
+**[ SEEKING ACCOMPLICES ]** 🤝
+
+```terminal
+┌─[ WANTED: PARTNERS IN DIGITAL CRIME ]
+├── 🗺️  Geospatial data conspirators
+├── 🔧 Infrastructure sabotage specialists  
+├── 📊 Data visualization hacktivists
+├── 🌍 Environmental monitoring rebels
+└── 💀 Anyone who thinks outside the bbox
+```
+
+**[ SECURE COMMUNICATION CHANNELS ]**  
+*All transmissions encrypted. No logs. No traces.*
+
+---
+
+## 🕳️ [ THE RABBIT HOLE GOES DEEPER ]
+
+```bash
+┌─[ CLASSIFIED ACCESS GRANTED ]
+├── Location: [REDACTED]
+├── Clearance: ROOT
+├── Mission: Hack the planet through spatial intelligence
+└── Motto: "In GIS we trust, all others must provide coordinates"
+```
 
 <div align="center">
 
-### ⚡ *"Bridging the gap between data and discovery, one coordinate at a time"* ⚡
+### 🔴 **"I AM THE ONE WHO MAPS"** 🔴
 
-[![Profile Views](https://komarev.com/ghpvc/?username=js-surya&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/js-surya)
+```terminal
+> Breach successful. Welcome to the matrix of spatial data.
+> Reality.exe is now under our control.
+> Coordinates secured. World hacked.
+```
+
+[![Infiltration Counter](https://komarev.com/ghpvc/?username=js-surya&color=red&style=for-the-badge&label=SECURITY+BREACHES)](https://github.com/js-surya)
+
+**[ CONNECTION TERMINATED ]**
 
 </div>
+
+---
+
+```ascii
+   _____ ________   _______________  _____ _____ _____ 
+  |   __|  |  |  | |_   _|   _   ||  |  |   __|     |
+  |   __|     |   |   | | |       ||    -|   __|  |  |
+  |_____|__|__|___|   |_| |___|___||__|__|_____|_____|
+                                                      
+         [ END TRANSMISSION - COORDINATES WIPED ]
+```
