@@ -1,4 +1,6 @@
-# Hi, I'm Synt4x404 👋
+# Hi, I'm Synt4x404 👋  
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" align="right" alt="Coding GIF">  
 
 ## 🌍 GIS Enthusiast & Data Engineer  
 
@@ -37,9 +39,15 @@ Passionate about leveraging GIS technologies to solve real-world spatial problem
 
 ---
 
-## 🎮 Game of the Day  
+## 📊 GitHub Activity  
 
-Play my custom JavaScript game 👉 [**Coordinate Catch**](https://yourusername.github.io/yourrepo/)  
+![Synt4x404's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)  
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)  
 
 ---
 
