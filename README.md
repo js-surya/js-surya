@@ -1,41 +1,52 @@
 <div align="center">
 
-# 🌍 **SYNT4X404** 🌍
-## `GEOSPATIAL INTELLIGENCE OPERATIVE`
+# 🌐 **SYNT4X404** 🌐
+### `GEOSPATIAL BLACK HAT • SATELLITE INFILTRATOR • EARTH DATA ASSASSIN`
 
-<img src="https://media.giphy.com/media/077i6AULCXc0FKTj9s/giphy.gif" width="400" alt="Earth Data Visualization">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Digital Earth Hack">
 
-**`[ ACTIVE ]`** • **`[ LEVEL: ROOT ]`** • **`[ LOCATION: CLASSIFIED ]`**
+**`[██████████] BREACH STATUS: COMPLETE`**
 
 ```bash
-> whoami
-synt4x404: GIS Hacker | Spatial Data Infiltrator | Earth Intelligence Architect
+┌─[synt4x404@earth]─[~/classified]
+└──╼ $ sudo ./planet_hack.sh --silent --no-trace
+[+] Exploiting 847 satellites... DONE
+[+] Infiltrating global sensor networks... DONE  
+[+] Backdoor installed in 23 GIS corporations... DONE
+[!] WARNING: Digital Earth compromised. All your maps belong to us.
 ```
 
 ---
 
-### 💀 **THREAT ASSESSMENT** 💀
+## ⚡ **THREAT LEVEL: MAXIMUM** ⚡
 
 ```yaml
-Mission Status:
-  🔴 CRITICAL    → Breaching satellite databases daily
-  🟠 HIGH        → Exploiting spatial infrastructures  
-  🟡 MODERATE    → Mining location intelligence
-  🟢 LOW         → Building cover applications
+🔴 ACTIVE_BREACHES:
+  - Real-time satellite hijacking: 24/7
+  - Corporate GIS infiltration: ONGOING  
+  - IoT sensor network exploitation: AUTOMATED
+  - Geospatial ML poisoning: DEPLOYED
+
+⚠️  IMPACT_RADIUS: GLOBAL
+💀 STEALTH_MODE: GHOST_PROTOCOL_ACTIVE
+🎯 NEXT_TARGET: [REDACTED]
 ```
 
 <details>
-<summary>🔓 <b>ACCESS CLASSIFIED OPERATIONS</b></summary>
+<summary>🔓 <b>[ DECRYPT MISSION FILES ]</b> • <i>Clearance Level: ROOT</i></summary>
 
 ```terminal
 ┌─────────────────────────────────────────────────────────────────┐
-│                    🛰️ ACTIVE MISSIONS 🛰️                      │
+│                    ☢️  OPERATION BLACKMAP  ☢️                   │
 ├─────────────────────────────────────────────────────────────────┤
-│  🎯 Extracting intel from Earth observation satellites         │
-│  🛰️ Intercepting IoT sensor networks globally                 │
-│  💉 Injecting spatial algorithms into corporate systems        │
-│  🌐 Penetrating cloud-based GIS infrastructures               │
-│  ⚡ Deploying automated geospatial weapons                     │
+│                                                                 │
+│  🛰️  Project SKYHAWK    → Satellite control network hijacked   │
+│  🌊  Operation DEEPBLUE → Ocean sensor grid compromised        │
+│  🏙️  Mission SMARTCITY  → Urban IoT infrastructure breached    │
+│  🌍  Protocol GAIA      → Global climate monitoring PWNED      │
+│  ⚡  Exploit THUNDERMAP → Real-time traffic systems hijacked   │
+│                                                                 │
+│  STATUS: All operations green. No digital footprint detected.  │
 └─────────────────────────────────────────────────────────────────┘
 ```
 
@@ -43,53 +54,45 @@ Mission Status:
 
 ---
 
-## ⚔️ **HACKING ARSENAL** ⚔️
+## 🔥 **DIGITAL WARFARE TOOLKIT** 🔥
 
-<table align="center">
+<table>
 <tr>
 <td width="50%">
 
-### 🔫 **INFILTRATION TOOLS**
-```bash
-┌─[ DESKTOP SUITE ]
-├─ 🗺️ QGIS v3.x      → Swiss Army Knife
-├─ 🎯 ArcGIS Pro     → Corporate Backdoor
-├─ 🛰️ ERDAS Imagine  → Satellite Decoder
-├─ 💾 PostGIS        → Database Lockpick
-└─ ⚡ GDAL/OGR       → Universal Translator
-```
-
-### 💉 **PAYLOAD GENERATORS**
+### 💀 **EXPLOITATION FRAMEWORK**
 ```python
-exploits = {
-    "Python": "🐍 Silent Execution",
-    "R":      "📊 Statistical Warfare", 
-    "SQL":    "💉 DB Injection",
-    "Shell":  "⚡ Root Escalation"
-}
+class GeoHacker:
+    def __init__(self):
+        self.tools = {
+            "QGIS": "🗺️ The Swiss Army Knife",
+            "ArcGIS": "🎯 Corporate Backdoor", 
+            "PostGIS": "💉 Database Injector",
+            "GDAL": "⚡ Universal Decoder",
+            "GRASS": "🌿 Stealth Operations"
+        }
+        self.status = "GHOST_MODE"
+    
+    def infiltrate_satellite(self, target):
+        return f"Satellite {target}: COMPROMISED ✓"
 ```
 
 </td>
 <td width="50%">
 
-### 🌐 **NETWORK PENETRATION**
-```terminal
-┌─[ INFRASTRUCTURE ACCESS ]
-├─ Docker Containers  → Isolated Payloads
-├─ Kubernetes Mesh    → Distributed Attacks  
-├─ NGINX Proxies      → Traffic Masking
-├─ Tailscale Tunnels  → Encrypted Mesh
-└─ Cloud Platforms    → Scalable Operations
-```
+### 🌐 **NETWORK PENETRATION SUITE**
+```bash
+#!/bin/bash
+# SYNT4X404 Auto-Exploit Suite v3.37
 
-### 🔥 **WEB EXPLOITATION**
-```javascript
-const arsenal = {
-    leaflet: "🗺️ Interactive Infiltration",
-    mapbox:  "🎨 Visual Deception", 
-    d3js:    "📊 Data Manipulation",
-    react:   "⚛️ UI Weaponization"
-}
+docker run -d --name earth_pwn \
+  --net=host --privileged \
+  -e TARGET="GLOBAL" \
+  -e STEALTH="MAXIMUM" \
+  synt4x/geo-exploit:latest
+
+kubectl apply -f satellite-botnet.yaml
+nginx -c proxy_stealth.conf
 ```
 
 </td>
@@ -98,52 +101,61 @@ const arsenal = {
 
 ---
 
-## 📡 **LIVE INTELLIGENCE FEED** 📡
+## 🛰️ **LIVE BREACH DASHBOARD** 🛰️
+
+<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="600" alt="Cyber Attack Dashboard">
+
+```terminal
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  🌍 SYNT4X404 • GLOBAL COMMAND CENTER • SECTOR 7 • CLASSIFIED ACCESS ONLY   ║  
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  [████████████████████████████████████████████████] 100% PLANET DOMINATED   ║
+║                                                                              ║
+║  🔴 SATELLITES CONTROLLED: 2,847     📡 DATA STREAMS HIJACKED: 15,923       ║
+║  🟠 GOVERNMENTS INFILTRATED: 67      🌐 NETWORKS COMPROMISED: 94,231        ║  
+║  🔥 ACTIVE BACKDOORS: 8,492          ⚡ AUTO-EXPLOITS RUNNING: 1,337        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <div align="center">
 
-```terminal
-╔══════════════════════════════════════════════════════════════════╗
-║                    [ SYNT4X404 COMMAND HUB ]                    ║
-║  ████████████████████▓▓▓▓▓▓▓▓░░░░  BREACH: 100% COMPLETE        ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+![Elite Stats](https://github-readme-stats.vercel.app/api?username=js-surya&show_icons=true&theme=merko&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&icon_color=ff073a&custom_title=HACKING%20STATISTICS)
+&nbsp;&nbsp;
+![Exploit Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js-surya&layout=compact&theme=merko&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&custom_title=EXPLOIT%20ARSENAL)
 
-![Hacker Stats](https://github-readme-stats.vercel.app/api?username=js-surya&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff&icon_color=ff0040)
-&nbsp;&nbsp;&nbsp;&nbsp;
-![Code Frequency](https://github-readme-stats.vercel.app/api/top-langs/?username=js-surya&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=ffffff)
+![Digital Footprint](https://streak-stats.demolab.com?user=js-surya&theme=dark&hide_border=true&background=0a0a0a&stroke=00ff41&ring=ff073a&fire=00ff41&sideNums=00ff41&sideLabels=00ff41&dates=00ff41)
 
-![Commit Streak](https://streak-stats.demolab.com?user=js-surya&theme=dark&hide_border=true&background=0d1117&stroke=00ff00&ring=ff0040&fire=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=ffffff)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=js-surya&theme=terminal&bg_color=0d1117&color=00ff00&line=ff0040&point=ffffff)
+![Network Activity](https://github-readme-activity-graph.vercel.app/graph?username=js-surya&theme=merko&bg_color=0a0a0a&color=00ff41&line=ff073a&point=ffffff&custom_title=BREACH%20ACTIVITY%20LOG)
 
 </div>
 
 ---
 
-## 🚨 **ACTIVE OPERATIONS** 🚨
+## 🚨 **ACTIVE CYBER WARFARE** 🚨
 
 <table align="center">
 <tr>
-<td align="center">
+<td>
 
-### 🔥 **PHASE 1: INFILTRATION**
+### 🔥 **PHASE ALPHA: RECONNAISSANCE** 
 ```diff
-+ Real-time IoT Sensor Hijacking
-+ Cloud-Native GIS Exploitation  
-+ ML-Enhanced Spatial Attacks
-+ Mobile GIS Penetration Testing
++ Satellite constellation mapping: COMPLETE
++ Corporate network fingerprinting: ONGOING
++ Government infrastructure scanning: ACTIVE
++ Mobile carrier geo-tracking: INFILTRATED
++ Social media location mining: AUTOMATED
 ```
 
 </td>
-<td align="center">
+<td>
 
-### ⚡ **PHASE 2: EXPLOITATION**
+### ⚡ **PHASE OMEGA: DOMINATION**
 ```diff
-! Satellite Feed Interception
-! Geospatial Database Mining
-! Automated Coordinate Weapons
-! Infrastructure Backdoor Deployment
+! Global GPS manipulation: DEPLOYED
+! Weather data poisoning: ACTIVE  
+! Traffic system control: ACQUIRED
+! Emergency services override: STANDBY
+! Nuclear facility monitoring: [REDACTED]
 ```
 
 </td>
@@ -152,47 +164,76 @@ const arsenal = {
 
 ---
 
-## 💀 **DAILY BREACH REPORT** 💀
+## 💀 **BLACK HAT RECRUITMENT** 💀
 
-![Daily Hack Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-
-## 🎭 **RECRUITMENT CENTER** 🎭
+<img src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" width="400" alt="Hacker Recruitment">
 
 ```terminal
-╔════════════════════════════════════════════════════════════════════╗
-║                           [ WANTED ]                              ║
-║                🤝 ACCOMPLICES FOR DIGITAL WARFARE 🤝             ║
-║                                                                    ║
-║  🗺️  Geospatial Data Conspirators    💰 High Reward             ║  
-║  🔧 Infrastructure Sabotage Experts  💰 High Reward             ║
-║  📊 Data Visualization Hacktivists   💰 High Reward             ║
-║  🌍 Environmental Monitoring Rebels  💰 High Reward             ║
-║                                                                    ║
-║         Contact: [ENCRYPTED] | All comms secured | No logs        ║
-╚════════════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════════════════╗
+║                              ☠️  WANTED  ☠️                                  ║
+║                    ELITE HACKERS FOR DIGITAL APOCALYPSE                     ║  
+╠═══════════════════════════════════════════════════════════════════════════════╣
+║                                                                               ║
+║  🛰️ SATELLITE HIJACKING SPECIALISTS     💰 $$$$ + CRYPTO + IMMUNITY         ║
+║  🏢 CORPORATE INFRASTRUCTURE SABOTEURS  💰 $$$$ + OFFSHORE + PROTECTION      ║  
+║  📡 RF/SIGINT EXPLOITATION MASTERS      💰 $$$$ + HARDWARE + SAFE HOUSES     ║
+║  🌐 DISTRIBUTED BOTNET ARCHITECTS       💰 $$$$ + ANONYMITY + RESOURCES      ║
+║  ⚡ ZERO-DAY EXPLOIT DEVELOPERS         💰 $$$$ + IMMUNITY + RELOCATION       ║
+║                                                                               ║
+║  📧 CONTACT: synt4x404@[REDACTED].onion | PGP: 0x1337DEAD | Signal: +[BURN] ║
+║  🔐 REQUIREMENTS: Proven track record, no feds, bring your own VPN           ║
+╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
-### 🔴 **"MAPPING THE DIGITAL UNDERGROUND"** 🔴
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Hacker Terminal">
+## 🎯 **LEGENDARY EXPLOITS** 🎯
 
 ```bash
-> ACCESS GRANTED
-> Spatial reality.exe compromised  
-> All coordinates belong to us now
-> Planet Earth: PWNED ✓
+┌─[HALL OF FAME]─[GREATEST HITS]─────────────────────────────────────┐
+│                                                                    │
+│  📅 2024.12.15 → Hijacked Starlink constellation for 37 minutes   │
+│  📅 2024.11.08 → Infiltrated 23 smart city networks globally      │  
+│  📅 2024.10.31 → Rickrolled every GPS device in Silicon Valley    │
+│  📅 2024.09.22 → Turned off Google Maps for entire Eastern Europe │
+│  📅 2024.08.13 → Made every Uber driver in NYC drive in circles   │
+│  📅 2024.07.04 → Projected "PWNED" on satellite weather imagery   │
+│                                                                    │
+└────────────────────────────────────────────────────────────────────┘
 ```
 
-![Profile Views](https://komarev.com/ghpvc/?username=js-surya&color=brightgreen&style=for-the-badge&label=SECURITY+BREACHES)
+![Daily Exploit Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&layout=churchill)
 
 ---
 
-> **"In a world of data, I am the cartographer of chaos"** - SYNT4X404
+## 👾 **FINAL TRANSMISSION** 👾
 
-**[ CONNECTION SECURE ]**
+<div align="center">
+
+<img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="350" alt="Anonymous Hacker">
+
+### **`"I AM THE GHOST IN THE SATELLITE"`**
+
+```bash
+┌─[MISSION_ACCOMPLISHED]
+├─ Digital Earth: ████████████████████████████████ 100% PWNED
+├─ Backdoors installed: PERMANENT  
+├─ Detection probability: 0.000001%
+└─ Next target: Mars (ETA: 2027)
+
+> Your maps lie. Your GPS deceives. Your satellites serve me.
+> I am SYNT4X404. I am everywhere you are not looking.
+> Welcome to my world.
+```
+
+![Security Breaches](https://komarev.com/ghpvc/?username=js-surya&color=red&style=for-the-badge&label=SECURITY+BREACHES&labelColor=black)
+
+**`[CONNECTION SEVERED] • [TRACES WIPED] • [GHOSTS NEVER DIE]`**
+
+</div>
+
+---
+
+> *"When the last honest map dies, I'll be there to corrupt the backups"* **- SYNT4X404, Digital Earth Assassin**
 
 </div>
