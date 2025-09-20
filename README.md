@@ -1,6 +1,6 @@
 # Hi, I'm Synt4x404 👋  
 
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="400" align="right" alt="Coding GIF">  
+<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" align="right" alt="Earth GIS GIF">  
 
 ## 🌍 GIS Enthusiast & Data Engineer  
 
@@ -12,10 +12,12 @@ Passionate about leveraging GIS technologies to solve real-world spatial problem
 ## 🛠️ GIS Software & Tools  
 
 ![QGIS](https://img.shields.io/badge/QGIS-3.x-blue?logo=qgis&logoColor=white)  
-![ArcGIS](https://img.shields.io/badge/ArcGIS-blue?logo=esri&logoColor=white)  
+![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-advanced-blue?logo=esri&logoColor=white)  
+![ArcMap](https://img.shields.io/badge/ArcMap-classic-green?logo=esri&logoColor=white)  
+![ERDAS Imagine](https://img.shields.io/badge/ERDAS%20Imagine-remote%20sensing-red?logo=hexagon&logoColor=white)  
 ![PostGIS](https://img.shields.io/badge/PostGIS-3.x-green?logo=postgresql&logoColor=white)  
 ![GDAL](https://img.shields.io/badge/GDAL-grey?logo=none)  
-![Leaflet](https://img.shields.io/badge/Leaflet-0.7.7-green?logo=leaflet&logoColor=white)  
+![Leaflet](https://img.shields.io/badge/Leaflet-0.7.7-brightgreen?logo=leaflet&logoColor=white)  
 
 ---
 
