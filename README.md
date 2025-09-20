@@ -1,102 +1,162 @@
 <div align="center">
 
 # 🌍 **SYNT4X404** 🌍
-### `GIS DEVELOPER • SPATIAL DATA NINJA • GEOSPATIAL ARCHITECT`
+### `GIS Developer • Spatial Data Engineer • Python Geospatial Enthusiast`
 
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Digital Earth Visualization">
 
-**`[GIS FULL-STACK] • [SPATIAL ALGORITHMS] • [EARTH DATA WIZARD]`**
-
-```bash
-┌─[synt4x404@gis-lab]─[~/spatial_projects]
-└──╼ $ whoami
-GIS Developer | Spatial Data Engineer | Mapping Technology Enthusiast
-Crafting digital worlds through code and coordinates since 2020
+```python
+class GISPythonDeveloper:
+    def __init__(self):
+        self.name = "SYNT4X404"
+        self.role = ["GIS Developer", "Spatial Analyst", "Python Enthusiast"]
+        self.passion = "Building geospatial solutions with clean code"
+        self.status = "Always learning, always coding"
 ```
+
+</div>
 
 ---
 
-## 🗺️ **GEOSPATIAL EXPERTISE** 🗺️
+## 🐍 **PYTHON GEOSPATIAL STACK** 🐍
 
-```yaml
-CORE_SKILLS:
-  🌐 Full-Stack GIS Application Development
-  🛰️ Remote Sensing & Satellite Image Processing  
-  📊 Spatial Database Architecture & Optimization
-  🔍 Geographic Information Analysis & Modeling
-  📱 Mobile GIS & Location-Based Services
+```python
+# My daily GIS Python toolkit
+import geopandas as gpd
+import shapely
+import rasterio
+import folium
+import plotly.express as px
+from osgeo import gdal, ogr, osr
+import pyproj
+import contextily as cx
 
-TECH_STACK:
-  💻 Web GIS Development & API Integration
-  🐍 Geospatial Python Programming (GDAL, Shapely, Geopandas)
-  🗃️ Spatial Database Design (PostGIS, SpatiaLite)
-  🌐 Interactive Mapping (Leaflet, Mapbox, OpenLayers)
+class SpatialToolkit:
+    def __init__(self):
+        self.vector_tools = {
+            "geopandas": "DataFrames with geometry 🗺️",
+            "shapely": "Geometric operations master 📐", 
+            "fiona": "Vector data I/O handler 📁",
+            "pyproj": "Coordinate transformation wizard 🧭"
+        }
+        
+        self.raster_tools = {
+            "rasterio": "Raster data processing 🛰️",
+            "gdal": "Geospatial Swiss Army knife ⚡",
+            "xarray": "N-dimensional raster arrays 📊",
+            "rasterstats": "Zonal statistics calculator 📈"
+        }
+        
+        self.viz_tools = {
+            "folium": "Interactive web maps 🌐",
+            "plotly": "Dynamic spatial plots 📊",
+            "matplotlib": "Static map creation 🎨", 
+            "contextily": "Beautiful basemaps 🗾"
+        }
 ```
 
 <details>
-<summary>🔍 <b>[ VIEW CURRENT PROJECTS ]</b> • <i>Spatial Innovation Lab</i></summary>
+<summary>🔍 <b>[ import current_projects ]</b></summary>
 
-```terminal
-┌─────────────────────────────────────────────────────────────────┐
-│                   🛰️ ACTIVE GIS PROJECTS 🛠️                    │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                 │
-│  🌍  EarthViz Dashboard    → Real-time environmental monitoring │
-│  🏙️  UrbanMapper Pro      → Smart city planning application    │
-│  🛰️  SatelliteTracker     → Orbital data visualization tool    │
-│  📡  SensorNet Analytics  → IoT geospatial data processing     │
-│  🗺️  MapCraft Engine      → Custom mapping solution framework  │
-│                                                                 │
-│  🎯 STATUS: Building the future of spatial technology          │
-└─────────────────────────────────────────────────────────────────┘
+```python
+current_projects = {
+    "learning": [
+        "Advanced PostGIS spatial queries",
+        "Rasterio for satellite image processing", 
+        "Building REST APIs with FastAPI + PostGIS",
+        "Leaflet.js integration with Python backends"
+    ],
+    
+    "building": [
+        "Personal GIS data processing scripts",
+        "Jupyter notebooks for spatial analysis",
+        "Simple web maps using Folium",
+        "GDAL automation scripts for data conversion"
+    ],
+    
+    "exploring": [
+        "Machine learning for land cover classification",
+        "Time series analysis of satellite imagery",
+        "Interactive dashboards with Streamlit",
+        "Cloud-optimized GeoTIFF workflows"
+    ]
+}
 ```
 
 </details>
 
 ---
 
-## ⚡ **SPATIAL DEVELOPMENT ARSENAL** ⚡
+## 📊 **SPATIAL DATA WORKFLOW** 📊
+
+```python
+def typical_gis_workflow():
+    """My daily geospatial data processing routine"""
+    
+    # Step 1: Data acquisition and exploration
+    gdf = gpd.read_file("data/spatial_dataset.shp")
+    print(f"Loaded {len(gdf)} features")
+    
+    # Step 2: Data cleaning and validation
+    gdf = gdf.dropna()
+    gdf = gdf[gdf.geometry.is_valid]
+    
+    # Step 3: Spatial operations
+    gdf_projected = gdf.to_crs('EPSG:3857')
+    gdf_buffered = gdf_projected.buffer(1000)
+    
+    # Step 4: Analysis and visualization  
+    m = folium.Map()
+    gdf.explore(m=m, color='red', alpha=0.7)
+    
+    # Step 5: Export results
+    gdf.to_file("output/processed_data.geojson", driver="GeoJSON")
+    
+    return "Spatial analysis complete! 🌍"
+
+# Execute workflow
+result = typical_gis_workflow()
+```
+
+---
+
+## 🛠️ **DEVELOPMENT ENVIRONMENT** 🛠️
 
 <table>
 <tr>
 <td width="50%">
 
-### 🛠️ **GIS DEVELOPMENT STACK**
 ```python
-# Spatial Technology Arsenal
-gis_toolkit = {
-    "QGIS": "🗺️ Desktop GIS Powerhouse",
-    "ArcGIS Pro": "🎯 Enterprise Mapping Suite", 
-    "PostGIS": "🐘 Spatial Database Engine",
-    "GDAL/OGR": "⚡ Geospatial Data Swiss Army Knife",
-    "GRASS GIS": "🌿 Advanced Spatial Analysis"
-}
-
-dev_languages = {
-    "Python": "🐍 Geospatial Automation Master",
-    "JavaScript": "🌐 Interactive Web Mapping", 
-    "SQL": "💾 Spatial Query Optimization",
-    "R": "📊 Statistical Spatial Analysis"
+# Desktop GIS Tools
+desktop_arsenal = {
+    "QGIS": {
+        "version": "3.x",
+        "use_case": "Desktop analysis & visualization",
+        "plugins": ["Processing", "GRASS", "SAGA"]
+    },
+    
+    "ArcGIS Pro": {
+        "version": "Latest",
+        "use_case": "Professional mapping projects", 
+        "strengths": ["Model Builder", "3D Analysis"]
+    }
 }
 ```
 
 </td>
 <td width="50%">
 
-### 🌐 **MAPPING TECHNOLOGY STACK**
-```javascript
-// Modern GIS Development Environment
-const spatialStack = {
-    frontend: {
-        "React": "⚛️ Dynamic UI Components",
-        "Leaflet": "🗺️ Interactive Maps",
-        "D3.js": "📊 Spatial Data Visualization",
-        "Mapbox GL": "🎨 Vector Tile Rendering"
-    },
-    backend: {
-        "Node.js": "🚀 Spatial API Services",
-        "Python": "🐍 Geoprocessing Engine",
-        "Docker": "🐳 Containerized GIS Services"
+```python
+# Development Setup
+dev_environment = {
+    "editor": "VS Code with Python extension",
+    "jupyter": "For interactive spatial analysis",
+    "git": "Version control for all projects",
+    "conda": "Managing geospatial dependencies",
+    
+    "databases": {
+        "PostgreSQL + PostGIS": "Spatial database",
+        "SQLite + SpatiaLite": "Lightweight projects"
     }
 }
 ```
@@ -107,160 +167,159 @@ const spatialStack = {
 
 ---
 
-## 📊 **SPATIAL DATA MASTERY** 📊
+## 📈 **GITHUB ACTIVITY** 📈
 
 <div align="center">
-
-```terminal
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                       🌍 GIS DEVELOPMENT METRICS 🌍                         ║  
-╠══════════════════════════════════════════════════════════════════════════════╣
-║                                                                              ║
-║  🗺️ Mapping Applications Built: 15+     📊 Spatial Algorithms Developed: 8  ║
-║  🛰️ Satellite Datasets Processed: 50TB  🌐 Web Maps Deployed: 25+          ║  
-║  📡 GIS APIs Created: 12                 ⚡ Geoprocessing Scripts: 100+     ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-![GIS Stats](https://github-readme-stats.vercel.app/api?username=js-surya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149&custom_title=GIS%20DEVELOPMENT%20STATS)
-&nbsp;&nbsp;
-![Spatial Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js-surya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-![Coding Activity](https://streak-stats.demolab.com?user=js-surya&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=f85149&fire=58a6ff&sideNums=58a6ff&sideLabels=58a6ff&dates=c9d1d9)
-
-![Development Graph](https://github-readme-activity-graph.vercel.app/graph?username=js-surya&theme=github-compact&bg_color=0d1117&color=58a6ff&line=f85149&point=c9d1d9&custom_title=SPATIAL%20DEVELOPMENT%20ACTIVITY)
-
-</div>
-
----
-
-## 🎯 **CURRENT GIS FOCUS** 🎯
-
-<table align="center">
-<tr>
-<td>
-
-### 🔥 **SPATIAL DEVELOPMENT** 
-```diff
-+ Real-time geospatial data streaming
-+ 3D terrain visualization algorithms  
-+ Machine learning for spatial prediction
-+ Mobile GIS application optimization
-+ Cloud-native spatial architectures
-```
-
-</td>
-<td>
-
-### 🛠️ **MAPPING INNOVATION**
-```diff
-+ Custom tile server development
-+ Advanced spatial indexing solutions  
-+ Interactive dashboard frameworks
-+ Geospatial ETL pipeline automation
-+ Multi-dimensional spatial analysis
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## 🌟 **SPATIAL INNOVATION LAB** 🌟
-
-<img src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" width="400" alt="Coding Innovation">
-
-```bash
-┌─[CURRENT LEARNING PATH]───────────────────────────────────────────┐
-│                                                                   │
-│  📖 Mastering: Advanced PostGIS spatial functions                 │
-│  🔍 Exploring: WebAssembly for high-performance GIS               │  
-│  🛠️ Building: Custom vector tile processing pipeline              │
-│  🌐 Learning: Cloud-native geospatial architectures               │
-│  📊 Studying: Spatial machine learning algorithms                 │
-│  🎯 Developing: Next-gen mapping visualization techniques          │
-│                                                                   │
-└───────────────────────────────────────────────────────────────────┘
-```
-
----
-
-## 🤝 **GIS COMMUNITY** 🤝
-
-```terminal
-╔═══════════════════════════════════════════════════════════════════════════════╗
-║                        🌍 SPATIAL TECH COLLABORATION 🌍                      ║
-║                      Open Source GIS & Mapping Innovation                   ║  
-╠═══════════════════════════════════════════════════════════════════════════════╣
-║                                                                               ║
-║  🗺️ OPEN SOURCE GIS CONTRIBUTIONS     📊 Spatial Data Visualization Projects ║
-║  🛰️ REMOTE SENSING TOOL DEVELOPMENT    🌐 Web Mapping Framework Creation     ║  
-║  📡 GEOSPATIAL API DESIGN & BUILD      🔧 Custom GIS Solution Architecture   ║
-║  🎯 MAPPING ALGORITHM OPTIMIZATION     💡 Spatial Technology Innovation       ║
-║                                                                               ║
-║  📫 CONNECT: synt4x404@spatialdev.io | GitHub: github.com/js-surya          ║
-║  🔗 PORTFOLIO: Available on request   | Always open to spatial challenges    ║
-╚═══════════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## 💻 **GEOSPATIAL CODE SNIPPETS** 💻
 
 ```python
-# Daily GIS Development Workflow
-class SpatialDeveloper:
-    def __init__(self):
-        self.passion = "Building digital worlds with coordinates"
-        self.tools = ["QGIS", "Python", "PostGIS", "JavaScript"]
-        self.current_focus = "Real-time spatial analytics"
-    
-    def solve_spatial_problems(self):
-        while True:
-            problem = self.identify_spatial_challenge()
-            solution = self.craft_elegant_code(problem)
-            self.deploy_to_cloud(solution)
-            print("Another spatial problem solved! 🌍")
-
-# Current mission: Making geography programmable
-developer = SpatialDeveloper()
-developer.solve_spatial_problems()
+# Real GitHub stats - no fake numbers!
+github_stats = {
+    "focus": "Learning and building GIS solutions",
+    "languages": ["Python", "JavaScript", "SQL"],
+    "interests": ["Geospatial analysis", "Web mapping", "Data viz"],
+    "goal": "Contributing to open source GIS community"
+}
 ```
 
-![Daily Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=js-surya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js-surya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
----
-
-## 🚀 **SPATIAL VISION** 🚀
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Developer at Work">
-
-### **`"CODE THE WORLD, MAP THE FUTURE"`**
-
-```bash
-┌─[SPATIAL_MISSION]
-├─ 🌍 Building next-generation mapping solutions
-├─ 🔍 Pushing boundaries of spatial technology  
-├─ 🛠️ Creating tools that make geography accessible
-├─ 📊 Turning raw location data into insights
-└─ 🚀 Making the world more connected through maps
-
-> Every coordinate tells a story
-> Every map solves a problem
-> Every spatial algorithm changes the world
-```
-
-![Developer Profile](https://komarev.com/ghpvc/?username=js-surya&color=blue&style=for-the-badge&label=GIS+PROJECTS+VIEWED&labelColor=gray)
-
-**`[SPATIAL INNOVATION] • [OPEN SOURCE] • [MAPPING THE FUTURE]`**
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=js-surya&theme=github-compact&bg_color=0d1117&color=58a6ff&line=f85149&point=c9d1d9)
 
 </div>
 
 ---
 
-> *"In a world of data, I am the architect of spatial solutions"* **- SYNT4X404, Geospatial Developer**
+## 🎯 **CURRENT LEARNING PATH** 🎯
+
+```python
+learning_roadmap = {
+    "currently_studying": [
+        "📚 Python for Geospatial Analysis (book)",
+        "🎥 PostGIS tutorials and spatial SQL",
+        "🌐 JavaScript for interactive web maps", 
+        "📊 Pandas and GeoPandas data manipulation"
+    ],
+    
+    "practicing_with": [
+        "🛰️ Landsat satellite imagery processing",
+        "🗺️ OpenStreetMap data analysis",
+        "📍 GPS track analysis and visualization",
+        "🏙️ Urban planning spatial datasets"
+    ],
+    
+    "want_to_learn": [
+        "☁️ Cloud-based geospatial processing (AWS, GCP)",
+        "🤖 Machine learning for spatial prediction",
+        "📱 Mobile GIS app development",
+        "🚀 Real-time spatial data streaming"
+    ]
+}
+
+for category, items in learning_roadmap.items():
+    print(f"{category.upper()}:")
+    for item in items:
+        print(f"  {item}")
+```
+
+---
+
+## 🌐 **WEB MAPPING EXPERIMENTS** 🌐
+
+```javascript
+// Combining Python backend with JavaScript frontend
+const mapExperiments = {
+    backend: {
+        framework: "Flask/FastAPI",
+        database: "PostGIS",
+        processing: "GeoPandas + Shapely"
+    },
+    
+    frontend: {
+        mapping: "Leaflet.js / Mapbox GL",
+        charts: "D3.js / Chart.js", 
+        ui: "Bootstrap / Tailwind CSS"
+    },
+    
+    currentProject: "Building a simple web map with Flask + Leaflet"
+};
+```
+
+---
+
+## 🤝 **CONNECT & COLLABORATE** 🤝
+
+```python
+class ContactInfo:
+    def __init__(self):
+        self.github = "github.com/js-surya"
+        self.interests = [
+            "Open source GIS development",
+            "Spatial data analysis tutorials", 
+            "Python geospatial libraries",
+            "Learning together and sharing knowledge"
+        ]
+        
+    def collaborate_on(self):
+        return [
+            "🌍 Educational GIS projects",
+            "📊 Spatial data visualization challenges",
+            "🐍 Python geospatial tutorials",
+            "🗺️ Open source mapping tools"
+        ]
+        
+    def always_interested_in(self):
+        return "Learning new geospatial techniques and tools!"
+
+# Let's connect!
+contact = ContactInfo()
+print("Always happy to learn and share knowledge about GIS + Python! 🚀")
+```
+
+---
+
+## 💻 **CODE PHILOSOPHY** 💻
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Python Developer">
+
+```python
+def my_approach():
+    principles = {
+        "code": "Clean, readable, and well-documented",
+        "learning": "One spatial problem at a time",
+        "sharing": "Knowledge grows when shared",
+        "tools": "Right tool for the right job"
+    }
+    
+    motto = "Building spatial solutions with Python, one line at a time"
+    
+    return {
+        "mission": motto,
+        "values": principles,
+        "status": "Always learning, always coding 🐍🌍"
+    }
+
+# Execute philosophy
+philosophy = my_approach()
+print(philosophy["mission"])
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=js-surya&color=green&style=for-the-badge&label=REPOSITORY+VISITS&labelColor=gray)
+
+**`[PYTHON GEOSPATIAL] • [ALWAYS LEARNING] • [OPEN SOURCE]`**
+
+</div>
+
+---
+
+```python
+# End of profile
+if __name__ == "__main__":
+    print("Thanks for visiting my GIS development journey! 🌍🐍")
+    print("Let's build amazing spatial solutions together!")
+```
 
 </div>
