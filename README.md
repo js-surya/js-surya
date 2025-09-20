@@ -1,62 +1,116 @@
-# Hi, I'm Synt4x404 👋  
+# Hey there! I'm Synt4x404 👨‍💻
 
-<img src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif" width="400" align="right" alt="Earth GIS GIF">  
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" align="right" alt="Coding and Data Visualization">
 
-## 🌍 GIS Enthusiast & Data Engineer  
+## 🗺️ Mapping the Digital World Through Data
 
-I specialize in **geospatial data analysis, visualization, and geoprocessing**.  
-Passionate about leveraging GIS technologies to solve real-world spatial problems and create impactful maps and applications.  
+**GIS Specialist | Data Engineer | Geospatial Solutions Architect**
 
----
+I transform complex spatial data into actionable insights and beautiful visualizations. From satellite imagery analysis to real-time mapping applications, I bridge the gap between raw geospatial data and meaningful solutions that drive decision-making.
 
-## 🛠️ GIS Software & Tools  
-
-![QGIS](https://img.shields.io/badge/QGIS-3.x-blue?logo=qgis&logoColor=white)  
-![ArcGIS Pro](https://img.shields.io/badge/ArcGIS%20Pro-advanced-blue?logo=esri&logoColor=white)  
-![ArcMap](https://img.shields.io/badge/ArcMap-classic-green?logo=esri&logoColor=white)  
-![ERDAS Imagine](https://img.shields.io/badge/ERDAS%20Imagine-remote%20sensing-red?logo=hexagon&logoColor=white)  
-![PostGIS](https://img.shields.io/badge/PostGIS-3.x-green?logo=postgresql&logoColor=white)  
-![GDAL](https://img.shields.io/badge/GDAL-grey?logo=none)  
-![Leaflet](https://img.shields.io/badge/Leaflet-0.7.7-brightgreen?logo=leaflet&logoColor=white)  
+> *"Every pixel tells a story, every coordinate holds potential."*
 
 ---
 
-## 💻 Programming Languages  
+## 🎯 What I Do
 
-![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python&logoColor=blue)  
-![R](https://img.shields.io/badge/R-4.x-blue?logo=r&logoColor=white)  
-![Shell](https://img.shields.io/badge/Shell_Scripting-black?logo=gnu-bash&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-database-orange?logo=postgresql&logoColor=white)  
-
----
-
-## 🌐 Networking & Server Skills  
-
-![Tailscale](https://img.shields.io/badge/Tailscale-secure-blue?logo=tailscale&logoColor=white)  
-![Linux](https://img.shields.io/badge/Linux-server-important?logo=linux&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-containers-blue?logo=docker&logoColor=white)  
-![NGINX](https://img.shields.io/badge/Nginx-server-green?logo=nginx&logoColor=white)  
-![Apache](https://img.shields.io/badge/Apache-server-red?logo=apache&logoColor=white)  
-![Cloud](https://img.shields.io/badge/AWS/GCP-cloud-orange?logo=amazonaws&logoColor=white)  
+🌍 **Geospatial Analysis**: Turning Earth's data into intelligence  
+📊 **Data Engineering**: Building robust pipelines for spatial data processing  
+🗺️ **Cartographic Design**: Creating maps that communicate and inspire  
+🔧 **Infrastructure**: Deploying scalable GIS solutions in the cloud  
+🤖 **Automation**: Streamlining workflows with Python and shell scripting  
 
 ---
 
-## 📊 GitHub Activity  
+## 🛠️ My Arsenal
 
-![js-surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=js-surya&show_icons=true&theme=tokyonight)  
+### 📍 **GIS & Remote Sensing**
+```
+🗺️ Desktop GIS        → QGIS 3.x | ArcGIS Pro | ArcMap
+🛰️ Remote Sensing     → ERDAS Imagine | Google Earth Engine
+🗄️ Spatial Databases  → PostGIS | SpatiaLite
+🌐 Web Mapping        → Leaflet | OpenLayers | Mapbox
+📦 Data Processing    → GDAL/OGR | FME
+```
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js-surya&layout=compact&theme=tokyonight)  
+### 💻 **Development Stack**
+```python
+# Core Languages
+languages = {
+    "Python": "Geospatial data science & automation",
+    "R": "Statistical analysis & visualization", 
+    "SQL": "Spatial queries & database management",
+    "Shell": "System automation & deployment"
+}
+```
 
-![GitHub Streak](https://streak-stats.demolab.com?user=js-surya&theme=tokyonight&hide_border=true)  
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=js-surya&theme=react-dark)  
+### 🌐 **Infrastructure & DevOps**
+```yaml
+Infrastructure:
+  - Containers: Docker, Kubernetes
+  - Web Servers: NGINX, Apache
+  - Networking: Tailscale, VPN solutions
+  - Cloud: AWS, GCP (Earth Engine, BigQuery)
+  - OS: Linux (Ubuntu, CentOS), Windows Server
+```
 
 ---
 
-## 💡 Quote of the Day  
+## 📈 GitHub Analytics
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)  
+<div align="center">
+
+![Synt4x404's GitHub Stats](https://github-readme-stats.vercel.app/api?username=js-surya&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js-surya&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=js-surya&theme=radical&hide_border=true&background=0D1117)
+
+</div>
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=js-surya&theme=github-compact&bg_color=0D1117&color=ffffff&line=00d8ff&point=ffffff)
 
 ---
 
-✨ Feel free to explore my projects and reach out to collaborate or chat about **GIS, networking, coding, or tech**!
+## 🎯 Current Focus
+
+- 🔥 **Real-time Spatial Analytics**: Building streaming data pipelines for IoT sensors
+- 🚀 **Cloud-Native GIS**: Containerized geospatial services on Kubernetes  
+- 🤖 **ML + GIS**: Integrating machine learning with spatial analysis
+- 📱 **Mobile GIS**: Cross-platform mapping applications
+
+---
+
+## 💡 Daily Inspiration
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🤝 Let's Connect!
+
+💬 **Open to collaborate on:**
+- 🗺️ Geospatial data projects
+- 🔧 Infrastructure automation  
+- 📊 Data visualization challenges
+- 🌍 Environmental monitoring solutions
+
+📫 **Reach out if you're working on:**
+- Spatial data problems that need solving
+- GIS infrastructure that needs scaling  
+- Maps that need to tell better stories
+- Data that needs to find its place in the world
+
+---
+
+<div align="center">
+
+### ⚡ *"Bridging the gap between data and discovery, one coordinate at a time"* ⚡
+
+[![Profile Views](https://komarev.com/ghpvc/?username=js-surya&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/js-surya)
+
+</div>
