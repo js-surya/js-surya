@@ -41,13 +41,13 @@ Passionate about leveraging GIS technologies to solve real-world spatial problem
 
 ## 📊 GitHub Activity  
 
-![Synt4x404's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
+![js-surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=js-surya&show_icons=true&theme=tokyonight)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=js-surya&layout=compact&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=tokyonight&hide_border=true)  
+![GitHub Streak](https://streak-stats.demolab.com?user=js-surya&theme=tokyonight&hide_border=true)  
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark)  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=js-surya&theme=react-dark)  
 
 ---
 
