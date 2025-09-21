@@ -1,3 +1,4 @@
+```markdown
 <div align="center">
 
 # 🌍 **SYNT4X404** 🌍  
@@ -7,166 +8,122 @@
 
 </div>
 
-```python
+---
+
+```
 class GISPythonDeveloper:
     def __init__(self):
         self.name = "SYNT4X404"
         self.role = "GIS Developer & Python Enthusiast"
         self.passion = "Building spatial solutions with clean code"
         self.status = "Always learning, always coding"
+```
 
+---
 
-⸻
-
-🐍 PYTHON GEOSPATIAL TOOLKIT
-
-# My daily GIS Python libraries
-import geopandas as gpd
-import rasterio
-import folium
-import shapely
-from osgeo import gdal
+## 🐍 PYTHON GEOSPATIAL TOOLKIT
 
 Core Libraries I Work With:
-	•	🗺️ GeoPandas - Spatial dataframes made easy
-	•	🛰️ Rasterio - Satellite imagery processing
-	•	🌐 Folium - Interactive web maps in Python
-	•	📐 Shapely - Geometric operations
-	•	⚡ GDAL - Universal geospatial data converter
+- 🗺️ **GeoPandas** - Spatial dataframes made easy  
+- 🛰️ **Rasterio** - Satellite imagery processing  
+- 🌐 **Folium** - Interactive web maps in Python  
+- 📐 **Shapely** - Geometric operations  
+- ⚡ **GDAL** - Universal geospatial data converter  
 
-⸻
+---
 
-🛠️ DEVELOPMENT STACK
+## 🛠️ DEVELOPMENT STACK
 
 <table>
 <tr>
 <td width="50%">
 
-
-desktop_tools = {
-    "qgis": "Desktop GIS powerhouse",
-    "arcgis_pro": "Professional mapping",
-    "erdas_imagine": "Remote sensing analysis",
-    "postgis": "Spatial database magic"
-}
+**Desktop GIS Tools**  
+- QGIS — Desktop GIS powerhouse  
+- ArcGIS Pro — Professional mapping  
+- ERDAS Imagine — Remote sensing analysis  
+- PostGIS — Spatial database magic  
 
 </td>
 <td width="50%">
 
-
-web_stack = {
-    "javascript": "Interactive web maps",
-    "leaflet": "Lightweight mapping library",
-    "flask": "Python web framework",
-    "html_css": "Frontend essentials"
-}
+**Web & Scripting Stack**  
+- JavaScript — Interactive web maps  
+- Leaflet — Lightweight mapping library  
+- Flask — Python web framework  
+- HTML/CSS — Frontend essentials  
 
 </td>
 </tr>
 </table>
 
+---
 
+## 🎯 CURRENT LEARNING PATH
 
-⸻
+- Advanced PostGIS spatial queries  
+- Python automation for GIS workflows  
+- Web mapping with JavaScript  
+- Satellite image processing  
+- OpenStreetMap data analysis  
+- Building simple web maps  
+- Processing Landsat imagery  
+- Creating spatial data visualizations  
 
-🎯 CURRENT LEARNING PATH
+---
 
-def my_learning_journey():
-    current_focus = [
-        "Advanced PostGIS spatial queries",
-        "Python automation for GIS workflows", 
-        "Web mapping with JavaScript",
-        "Satellite image processing"
-    ]
-    
-    practicing_with = [
-        "OpenStreetMap data analysis",
-        "Building simple web maps",
-        "Processing Landsat imagery",
-        "Creating spatial data visualizations"
-    ]
-    
-    return current_focus, practicing_with
-
-What I’m Working On:
-	•	📚 Reading Python for Geospatial Analysis
-	•	🗺️ Building interactive maps with Folium
-	•	📊 Analyzing spatial datasets with GeoPandas
-	•	🛰️ Learning satellite image processing techniques
-
-⸻
-
-📊 GITHUB ACTIVITY
+## 📊 GITHUB ACTIVITY
 
 <div align="center">
 
-
-github_stats = {
-    "focus": "GIS and Python development",
-    "languages": ["Python", "JavaScript", "SQL"],
-    "goal": "Building useful spatial tools"
-}
-
-  
+_Focus_: GIS and Python development  
+_Languages_: Python, JavaScript, SQL  
+_Goal_: Building useful spatial tools  
 
 </div>
 
+---
 
+## 💡 INTERESTS & EXPLORATION
 
-⸻
+- Spatial data analysis with Python  
+- Web GIS development  
+- Remote sensing applications  
+- Geographic data visualization  
+- Cloud-based geospatial processing  
+- Machine learning for spatial prediction  
+- Mobile GIS applications  
+- Real-time location services  
 
-💡 INTERESTS & EXPLORATION
+---
 
-interests = {
-    "current": [
-        "Spatial data analysis with Python",
-        "Web GIS development",
-        "Remote sensing applications",
-        "Geographic data visualization"
-    ],
-    
-    "exploring": [
-        "Cloud-based geospatial processing",
-        "Machine learning for spatial prediction", 
-        "Mobile GIS applications",
-        "Real-time location services"
-    ]
-}
+## 🎮 GAME OF THE DAY
 
+**GeoGuessr** — Travel the world virtually and test your geography skills!  
+[Play GeoGuessr](https://www.geoguessr.com/)
 
-⸻
+---
 
-🤝 LET’S CONNECT
+## 🗺️ QUOTE OF THE DAY
 
-def connect():
-    interests = [
-        "Collaborative GIS projects",
-        "Open source contributions",
-        "Learning new spatial technologies",
-        "Sharing knowledge and experiences"
-    ]
-    
-    return "Always excited to learn and build together! 🚀"
+> "Every coordinate tells a story, every map solves a problem."
 
-<div align="center">
+---
 
+## 🤝 LET’S CONNECT
 
-Ready to collaborate on:
-	•	🌍 Educational GIS projects
-	•	📊 Spatial data analysis challenges
-	•	🐍 Python geospatial tutorials
-	•	🗺️ Open source mapping tools
+Ready to collaborate on:  
+- 🌍 Educational GIS projects  
+- 📊 Spatial data analysis challenges  
+- 🐍 Python geospatial tutorials  
+- 🗺️ Open source mapping tools  
 
 [PYTHON GEOSPATIAL] • [ALWAYS LEARNING] • [OPEN SOURCE]
 
-</div>
+---
 
-
-
-⸻
-
-
+```
 if __name__ == "__main__":
     print("Building spatial solutions, one line of code at a time 🌍🐍")
-
-“Every coordinate tells a story, every map solves a problem”
+```
+```
