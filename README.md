@@ -1,192 +1,234 @@
 <div align="center">
 
-# 🌍 **SYNT4X404** 🌍
-### `Ethical GIS Security Researcher • Spatial Data Guardian • White Hat Geospatial`
+```
+ ██████╗ ███████╗ ██████╗ ███████╗██████╗  █████╗  ██████╗███████╗
+██╔════╝ ██╔════╝██╔═══██╗██╔════╝██╔══██╗██╔══██╗██╔════╝██╔════╝
+██║  ███╗█████╗  ██║   ██║███████╗██████╔╝███████║██║     █████╗  
+██║   ██║██╔══╝  ██║   ██║╚════██║██╔═══╝ ██╔══██║██║     ██╔══╝  
+╚██████╔╝███████╗╚██████╔╝███████║██║     ██║  ██║╚██████╗███████╗
+ ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝╚═╝     ╚═╝  ╚═╝ ╚═════╝╚══════╝
+```
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="450" alt="Digital Earth Security">
+# **SYNT4X404** | `SPATIAL DATA HACKER`
+
+<img src="https://media.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif" width="500" alt="Hacker Terminal">
+
+```bash
+┌─[root@geohacker]─[~/spatial_ops]
+└──╼ whoami
+> Spatial Data Engineer | GIS Security Researcher | Python Hacker
+> Current Location: [ENCRYPTED]
+> Status: [ONLINE] - Always probing spatial systems...
+```
+
+</div>
+
+---
+
+## ⚡ **SYSTEM STATUS** ⚡
+
+```terminal
+╔══════════════════════════════════════════════════════════════════╗
+║                    [ GEOSPATIAL COMMAND CENTER ]                ║
+║  ██████████████████████████████████████████████████  100%       ║
+║                                                                  ║
+║  🟢 SPATIAL DATABASES: CONNECTED                                 ║
+║  🟢 SATELLITE FEEDS: ACTIVE                                      ║  
+║  🟢 GIS APIS: MONITORING                                         ║
+║  🟡 VULNERABILITY SCANS: RUNNING                                 ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+## 🔧 **HACKING ARSENAL** 🔧
+
+### **>> SPATIAL EXPLOITATION FRAMEWORK**
 
 ```python
-class EthicalGISHacker:
+#!/usr/bin/env python3
+# GIS Hacker Toolkit v3.1337
+
+class SpatialHacker:
     def __init__(self):
-        self.name = "SYNT4X404"
-        self.coordinates = (40.7128, -74.0060)  # Ethical research location
-        self.mission = "Securing geospatial infrastructure through responsible disclosure"
-        self.approach = "White hat methodology with spatial expertise"
-```
-
-</div>
-
----
-
-## 🛡️ **SECURITY RESEARCH COORDINATES**
-
-```python
-# Geospatial security research framework
-security_coordinates = {
-    "lat": 34.0522,  # Research focus area
-    "lon": -118.2437,  # Spatial security zone
-    "elevation": 71,  # Meters above mean sea level
-    "crs": "EPSG:4326"  # WGS84 coordinate reference system
-}
-```
-
-**Current Security Research Areas:**
-
-- 🗺️ **GIS Web Application Security** — Testing spatial APIs and endpoints
-- 🛰️ **Location Data Privacy Protection** — Safeguarding coordinate information
-- 📡 **Geospatial Database Hardening** — PostGIS security configurations
-- 🌐 **Spatial Service Vulnerability Assessment** — Ethical penetration testing
-- 📊 **Map Tile Server Security** — Protecting spatial data transmission
-
----
-
-## ⚡ **WHITE HAT TOOLKIT**
-
-**Security Testing Stack:**
-
-```python
-ethical_tools = {
-    "burp_suite": "Web application security scanner",
-    "owasp_zap": "Open source security testing proxy",
-    "nmap": "Network discovery and security auditing",
-    "wireshark": "Network protocol analyzer",
-    "metasploit": "Penetration testing framework"
-}
-```
-
-**Geospatial Security Tools:**
-
-```python
-gis_security = {
-    "qgis": "Desktop GIS for spatial analysis",
-    "postgis": "Spatial database security assessment", 
-    "gdal": "Geospatial data format security testing",
-    "python": "Custom security automation scripts",
-    "javascript": "Client-side spatial security analysis"
-}
-```
-
----
-
-## 🎯 **RESPONSIBLE DISCLOSURE PROTOCOL**
-
-```python
-def vulnerability_assessment():
-    """Ethical security testing methodology"""
-    
-    steps = [
-        "1. Obtain proper authorization",
-        "2. Document security findings", 
-        "3. Report through responsible disclosure",
-        "4. Assist with remediation",
-        "5. Share knowledge with community"
-    ]
-    
-    principles = {
-        "authorization": "Always get permission first",
-        "documentation": "Detailed vulnerability reports",
-        "disclosure": "Responsible timeline for fixes",
-        "education": "Help improve overall security"
+        self.target = "geospatial_infrastructure"
+        self.approach = "ethical_research_only"
+        
+    # Core Arsenal
+    tools = {
+        "python": "🐍 Primary weapon for geo-automation",
+        "qgis": "🗺️ Desktop reconnaissance platform", 
+        "postgis": "🐘 Database infiltration toolkit",
+        "gdal": "⚡ Universal data format decoder",
+        "javascript": "🌐 Client-side spatial exploitation"
     }
     
-    return steps, principles
+    def scan_target(self, coordinates):
+        print(f"[+] Scanning spatial target at {coordinates}")
+        return "vulnerability_assessment_complete"
 ```
 
-**Current Research Focus:**
+### **>> PENETRATION TESTING STACK**
 
-- 📚 Studying OWASP Top 10 for web applications
-- 🔍 Learning spatial SQL injection prevention techniques
-- 🛡️ Researching location privacy best practices
-- 📊 Analyzing geospatial API security patterns
+```bash
+# Network Reconnaissance  
+nmap -sS -O target-gis-server.com
+sqlmap -u "https://maps.target.com/api?id=1" --dbs
+nikto -h https://gis-portal.target.com
+
+# Spatial Database Probing
+psql -h target-postgis.com -U postgres -d spatial_db
+SELECT version(), PostGIS_version();
+```
 
 ---
 
-## 📊 **RESEARCH ACTIVITY**
+## 🛰️ **CURRENT OPERATIONS** 🛰️
+
+```terminal
+┌─[ACTIVE MISSIONS]─────────────────────────────────────────┐
+│                                                           │
+│  📡 PROJECT MAPWATCH                                      │
+│  └── Monitoring GIS API endpoints for vulnerabilities    │
+│                                                           │  
+│  🛰️ OPERATION GEODATA                                     │
+│  └── Analyzing spatial data privacy implementations      │
+│                                                           │
+│  🗺️ MISSION TILESERVER                                    │
+│  └── Security assessment of map tile infrastructures     │
+│                                                           │
+│  🔍 PROTOCOL SPATIALQUERY                                │
+│  └── SQL injection research in spatial databases         │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
+```
+
+---
+
+## 🎯 **SKILL TREE** 🎯
+
+```yaml
+[████████████████████████] Spatial Analysis     - MAXED
+[██████████████████      ] Python Automation    - 85%
+[████████████            ] Web GIS Security     - 65%  
+[██████████              ] Database Hardening   - 55%
+[████████                ] Network Penetration  - 45%
+[██████                  ] Satellite Imagery    - 35%
+```
+
+**Currently Grinding:**
+- 📚 Advanced PostGIS security configurations
+- 🔍 OWASP testing methodologies for GIS apps
+- 🛡️ Spatial data anonymization techniques
+- ⚡ Building automated vulnerability scanners
+
+---
+
+## 📊 **HACK STATS** 📊
 
 <div align="center">
 
-```python
-research_metrics = {
-    "approach": "Ethical security research",
-    "focus": "Geospatial infrastructure protection",
-    "method": "Responsible disclosure practices"
-}
+```bash
+┌─[SYSTEM INFO]
+├─ Commits: [CLASSIFIED] 
+├─ Languages: Python, JavaScript, SQL, Bash
+├─ Uptime: 24/7 spatial monitoring
+└─ Mission: Securing geospatial infrastructure
 ```
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=js-surya&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=f85149)
+![Hacker Stats](https://github-readme-stats.vercel.app/api?username=js-surya&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41&icon_color=ff073a)
 &nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=js-surya&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![Code Arsenal](https://github-readme-stats.vercel.app/api/top-langs/?username=js-surya&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=00ff41)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=js-surya&theme=terminal&bg_color=0a0a0a&color=00ff41&line=ff073a&point=ffffff)
 
 </div>
 
 ---
 
-## 🔍 **SECURITY LEARNING PATH**
+## 🌐 **INFILTRATION PROTOCOLS** 🌐
 
 ```python
-learning_coordinates = {
-    "current_studies": [
-        "Web application penetration testing methodologies",
-        "Geospatial database security configurations",
-        "Location-based service privacy protection",
-        "Spatial data anonymization techniques"
-    ],
-    
-    "lab_environment": [
-        "Setting up isolated testing environments",
-        "Creating vulnerable GIS applications for learning",
-        "Building secure spatial data pipelines", 
-        "Documenting security best practices"
+# Ethical Hacking Methodology
+def spatial_pentest():
+    phases = [
+        "🔍 Reconnaissance - Map the spatial attack surface",
+        "⚡ Scanning - Identify vulnerable GIS endpoints", 
+        "🎯 Enumeration - Catalog spatial services and databases",
+        "🔓 Exploitation - Test vulnerabilities (authorized only)",
+        "📝 Reporting - Document findings for remediation"
     ]
-}
+    
+    rules_of_engagement = {
+        "authorization": "Always obtain written permission",
+        "scope": "Stay within defined testing boundaries", 
+        "documentation": "Record all activities and findings",
+        "disclosure": "Responsible reporting to stakeholders"
+    }
+    
+    return "Ethical spatial security assessment complete"
 ```
 
 ---
 
-## 🌐 **ETHICAL RESEARCH COMMUNITY**
+## 🔥 **TERMINAL ACCESS** 🔥
 
-```python
-def community_engagement():
-    activities = [
-        "Contributing to GIS security documentation",
-        "Sharing defensive coding practices",
-        "Participating in security research forums",
-        "Mentoring new ethical hackers"
-    ]
-    
-    values = {
-        "transparency": "Open about methods and findings",
-        "education": "Knowledge sharing for better security",
-        "responsibility": "Always acting in good faith",
-        "collaboration": "Working with vendors for fixes"
-    }
-    
-    return "Building a more secure geospatial ecosystem"
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="Terminal Hacking">
+
+```bash
+┌─[synt4x404@geohacker]─[~]
+└──╼ ./spatial_recon.py --target earth --mode ethical
+
+[+] Initializing geospatial reconnaissance...
+[+] Loading spatial databases... ████████████████ 100%  
+[+] Scanning GIS web services... ████████████████ 100%
+[+] Analyzing coordinate systems... ████████████████ 100%
+[!] Vulnerabilities found: Documenting for responsible disclosure
+[✓] Mission complete. Spatial infrastructure secured.
+
+┌─[synt4x404@geohacker]─[~]
+└──╼ echo "Every coordinate tells a story, every vulnerability teaches a lesson"
+```
+
+---
+
+## 🤝 **SECURE COMMUNICATIONS** 🤝
+
+```terminal
+╔══════════════════════════════════════════════════════════════════╗
+║                        [ CONTACT PROTOCOLS ]                    ║
+║                                                                  ║
+║  🔐 ENCRYPTED CHANNELS ONLY                                      ║
+║  📧 Email: [ENCRYPTED] - PGP Key Available                      ║
+║  🔗 Matrix: @synt4x404:secure.server                           ║  
+║  💬 Discord: Available for security research collaboration      ║
+║                                                                  ║
+║  🎯 INTERESTED IN:                                               ║
+║  ├─ Ethical GIS security research                               ║
+║  ├─ Spatial vulnerability disclosure                            ║
+║  ├─ Open source security tool development                       ║
+║  └─ Knowledge sharing and mentorship                            ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
-**Interested in collaborating on:**
+![Security Badge](https://komarev.com/ghpvc/?username=js-surya&color=red&style=for-the-badge&label=SECURITY+SCANS&labelColor=black)
 
-- 🛡️ Geospatial security research projects
-- 📚 Educational security content creation
-- 🔍 Responsible vulnerability disclosure
-- 🌍 Open source spatial security tools
-
-![Profile Views](https://komarev.com/ghpvc/?username=js-surya&color=blue&style=for-the-badge&label=SECURITY+RESEARCH&labelColor=gray)
-
-**`[ETHICAL SECURITY] • [RESPONSIBLE DISCLOSURE] • [SPATIAL PROTECTION]`**
+**`[ETHICAL HACKER] • [SPATIAL SECURITY] • [RESPONSIBLE DISCLOSURE]`**
 
 </div>
 
 ---
 
-```python
-if __name__ == "__main__":
-    coordinates = (lat, lon, mission)
-    print(f"Securing geospatial infrastructure at {coordinates} 🛡️🌍")
-```
+```bash
+┌─[MISSION STATEMENT]
+├─ Securing the digital world, one coordinate at a time
+├─ White hat methodology with spatial expertise  
+├─ Building bridges between security and geography
+└─ "In code we trust, in ethics we hack" - SYNT4X404
 
-> *"Every coordinate deserves protection, every map needs security"*
+[CONNECTION TERMINATED]
+```
 
 </div>
