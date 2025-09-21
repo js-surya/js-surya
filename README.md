@@ -44,9 +44,9 @@ from osgeo import gdal
 
 ```python
 desktop_tools = {
-    "QGIS": "Desktop GIS powerhouse",
-    "ArcGIS_Pro": "Professional mapping",
-    "PostGIS": "Spatial database magic"
+    "qgis": "Desktop GIS powerhouse",
+    "arcgis_pro": "Professional mapping",
+    "postgis": "Spatial database magic"
 }
 ```
 
@@ -55,10 +55,10 @@ desktop_tools = {
 
 ```python
 web_stack = {
-    "JavaScript": "Interactive web maps",
-    "Leaflet": "Lightweight mapping library",
-    "Flask": "Python web framework",
-    "HTML_CSS": "Frontend essentials"
+    "javascript": "Interactive web maps",
+    "leaflet": "Lightweight mapping library",
+    "flask": "Python web framework",
+    "html_css": "Frontend essentials"
 }
 ```
 
