@@ -105,17 +105,6 @@ SELECT version(), PostGIS_version();
 
 ---
 
-## 🎯 **SKILL TREE** 🎯
-
-```yaml
-[████████████████████████] Spatial Analysis     - MAXED
-[██████████████████      ] Python Automation    - 85%
-[████████████            ] Web GIS Security     - 65%  
-[██████████              ] Database Hardening   - 55%
-[████████                ] Network Penetration  - 45%
-[██████                  ] Satellite Imagery    - 35%
-```
-
 **Currently Grinding:**
 - 📚 Advanced PostGIS security configurations
 - 🔍 OWASP testing methodologies for GIS apps
