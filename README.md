@@ -35,11 +35,6 @@ I'm a **Spatial Security Researcher** and **Full Stack Developer** specializing 
 🐦 **Twitter:** @synt4x404_sec  
 💼 **LinkedIn:** /in/spatial-security-researcher  
 
-### 🔐 Secure Communication
-- **PGP Key ID:** 0x1337C0DE1337C0DE
-- **KeyBase:** https://keybase.io/syntax404
-- Use PGP encryption for sensitive vulnerability reports
-
 ## 🏆 Certifications & Recognition
 
 ![HackerOne](https://img.shields.io/badge/HackerOne-Hacker-red?style=for-the-badge&logo=hackerone&logoColor=white)
