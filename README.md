@@ -37,7 +37,7 @@ I'm a **Spatial Security Researcher** and **Full Stack Developer** specializing 
 
 ### 🔐 Secure Communication
 - **PGP Key ID:** 0x1337C0DE1337C0DE
-- **KeyBase:** https://keybase.io/synt4x404
+- **KeyBase:** https://keybase.io/syntax404
 - Use PGP encryption for sensitive vulnerability reports
 
 ## 🏆 Certifications & Recognition
