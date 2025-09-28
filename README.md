@@ -31,19 +31,12 @@ I'm a **Spatial Security Researcher** and **Full Stack Developer** specializing 
 ## 🤝 Connect With Me
 
 📧 **Email:** dev[at]suryajs[dot]xyz  
-🔗 **Matrix:** @synt4x404:matrix.org  
-🐦 **Twitter:** @synt4x404_sec  
-💼 **LinkedIn:** /in/spatial-security-researcher  
 
 ## 🏆 Certifications & Recognition
 
 ![HackerOne](https://img.shields.io/badge/HackerOne-Hacker-red?style=for-the-badge&logo=hackerone&logoColor=white)
 ![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Researcher-orange?style=for-the-badge&logo=bugcrowd&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-Member-blue?style=for-the-badge&logo=owasp&logoColor=white)
-
-**Certifications:** OSCP • CEH • GCIH  
-**Bug Bounty:** Hall of Fame in 23+ programs  
-**Security Research:** 7 CVEs discovered  
 
 ---
 
