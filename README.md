@@ -6,7 +6,6 @@ I'm a **Spatial Researcher** specialising in geospatial technologies and cyberse
 
 **Languages:** Python, JavaScript, C, SQL, Go, Assembly  
 **Geospatial:** PostGIS, QGIS, GDAL, GeoServer, Shapely  
-**Security:** Penetration Testing, Vulnerability Research, Bug Bounty  
 **Tools:** PostgreSQL, Docker, Linux, Git
 
 ## 🎯 Current Focus
