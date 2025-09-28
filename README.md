@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Surya
 
-I'm a **Spatial Security Researcher** and **Full Stack Developer** specializing in geospatial technologies and cybersecurity.
+I'm a **Spatial Researcher** specialising in geospatial technologies and cybersecurity.
 
 ## 🔧 What I Work With
 
