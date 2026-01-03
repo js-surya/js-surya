@@ -2,13 +2,13 @@
 
 I'm a **Spatial Researcher** specialising in geospatial technologies.
 
-## 🔧 What I Work With
+## What I Work With
 
 **Languages:** Python, JavaScript, C, SQL, Go, Assembly  
 **Geospatial:** PostGIS, QGIS, GDAL, GeoServer, Shapely  
 **Tools:** PostgreSQL, Docker, Linux, Git
 
-## 🎯 Current Focus
+## Current Focus
 
 - 🔬 Researching spatial database security vulnerabilities
 - 🛠️ Building geospatial security tools and frameworks
