@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Surya
+# Hi, I'm Surya
 
 I'm a **Spatial Researcher** specialising in geospatial technologies.
 
@@ -8,14 +8,7 @@ I'm a **Spatial Researcher** specialising in geospatial technologies.
 **Geospatial:** PostGIS, QGIS, GDAL, GeoServer, Shapely  
 **Tools:** PostgreSQL, Docker, Linux, Git
 
-## Current Focus
-
-- 🔬 Researching spatial database security vulnerabilities
-- 🛠️ Building geospatial security tools and frameworks
-- 🌍 Contributing to open source GIS projects
-- 📚 Sharing knowledge about spatial cybersecurity
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -27,15 +20,9 @@ I'm a **Spatial Researcher** specialising in geospatial technologies.
 
 </div>
 
-## 🤝 Connect With Me
+## Connect With Me
 
 📧 **Email:** dev[at]suryajs[dot]xyz  
-
-## 🏆 Certifications & Recognition
-
-![HackerOne](https://img.shields.io/badge/HackerOne-Hacker-red?style=for-the-badge&logo=hackerone&logoColor=white)
-![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Researcher-orange?style=for-the-badge&logo=bugcrowd&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-Member-blue?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
 
