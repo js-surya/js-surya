@@ -12,6 +12,10 @@ Spatial researcher focused on geospatial systems, mapping, and data-driven probl
 
 Python · SQL · PostGIS · QGIS · GDAL · Docker · Linux · Git · AI · LLMs
 
+## Random Coding Quote
+
+![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteCategory=programming)
+
 ## Contact
 
 - Email: dev[at]suryajs[dot]xyz
