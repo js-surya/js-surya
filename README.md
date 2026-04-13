@@ -10,7 +10,7 @@ Spatial researcher focused on geospatial systems, mapping, and data-driven probl
 
 ## Tech I use
 
-Python · SQL · PostGIS · QGIS · GDAL · Docker · Linux · Git
+Python · SQL · PostGIS · QGIS · GDAL · Docker · Linux · Git · AI · LLMs
 
 ## Contact
 
