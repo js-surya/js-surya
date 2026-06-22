@@ -18,4 +18,4 @@ Python · SQL · PostGIS · QGIS · GDAL · Docker · Linux · Git · AI · LLMs
 
 ### Contact
 
-- Email: dev[at]suryajs[dot]xyz
+- Email: mail@suryajs.me
